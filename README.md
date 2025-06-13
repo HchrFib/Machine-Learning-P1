@@ -1,5 +1,5 @@
 # Machine-Learning-P1
-El proyecto final consiste en la resolución de un problema de clasificación en el que debes construir un modelo que sea capaz de determinar la puntuación crediticia de los clientes de un banco. El objetivo principal de la práctica es encontrar la combinación de transformaciones (preprocesamiento), modelo e hiper-parámetros que obtengan el mejor rendimiento.
+El proyecto consiste en la resolución de un problema de clasificación en el que debes construir un modelo que sea capaz de determinar la puntuación crediticia de los clientes de un banco. El objetivo principal de la práctica es encontrar la combinación de transformaciones (preprocesamiento), modelo e hiper-parámetros que obtengan el mejor rendimiento.
 Contexto
 
 Trabajas como científico de datos en una empresa financiera global. A lo largo de los años, la empresa ha recopilado datos bancarios básicos y ha reunido mucha información relacionada con el crédito. La dirección quiere construir un sistema inteligente para segregar a las personas en tramos de puntuación crediticia para reducir los cálculos manuales.
