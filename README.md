@@ -36,3 +36,8 @@ El conjunto de datos es un fichero CSV con todas las observaciones con las que c
     Monthly_Balance: Balance mensual en USD.
     Credit_Score: VARIABLE OBJETIVO
 
+1. Clonar repositorio:
+
+```
+git clone https://github.com/HchrFib/Machine-Learning-P1.git
+```
